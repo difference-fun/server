@@ -1,0 +1,15 @@
+{
+    "name" : "difference_fun/server",
+    "description" : "difference_fun/server see https://difference.fun for detailed usage",
+    "type" : "library",
+    "keywords" : ["node", "difference", "fun", "library", "framework", "server", "configuration", "difference.fun"],
+    "homepage": "https://difference.fun",
+    "require" : {
+        "difference_fun/framework": "*"
+    },
+    "license" : "MIT",
+    "authors" : [{
+        "name" : "Remco van der Velde",
+        "email" : "development@universeorange.com"
+    }]
+}
