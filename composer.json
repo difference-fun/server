@@ -1,7 +1,7 @@
 {
     "name" : "difference_fun/server",
     "description" : "difference_fun/server see https://difference.fun for detailed usage",
-    "type" : "library",
+    "type" : "package",
     "keywords" : ["node", "difference", "fun", "library", "framework", "server", "configuration", "difference.fun"],
     "homepage": "https://difference.fun",
     "require" : {
